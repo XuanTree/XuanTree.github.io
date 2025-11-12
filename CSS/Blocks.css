@@ -1,0 +1,14 @@
+.header {
+            height: 50px;
+            background-color: darkred;
+        }
+.main   {
+            text-align: center;
+            height: 2400px;
+            width: 2000px;
+            background-color: black;
+        }
+.footer {
+            height: 40px;
+            background-color: blueviolet;
+        }
